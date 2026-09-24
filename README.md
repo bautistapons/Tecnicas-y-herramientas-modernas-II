@@ -1,7 +1,7 @@
 # Tecnicas-y-herramientas-modernas-II
 # Entregas
 # GRUPO: ZZZ group  
-![](ZZZ NEW.jpeg)
+![](ZZZNEW.jpeg)
 ## Integrantes 
 - Bautista Pons
 - Maia Ortiz
